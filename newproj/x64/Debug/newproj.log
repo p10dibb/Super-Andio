@@ -1,0 +1,23 @@
+﻿  intro.cpp
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(220): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(228): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(236): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(243): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(250): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(257): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(264): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(271): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\paul\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(603): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(637): warning C4018: '<': signed/unsigned mismatch
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(646): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\paul\desktop\compsci\side project\copy from this for sfml\mario\newproj\intro.cpp(668): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  newproj.vcxproj -> C:\Users\paul\Desktop\compsci\side project\copy from this for sfml\mario\x64\Debug\newproj.exe
+  newproj.vcxproj -> C:\Users\paul\Desktop\compsci\side project\copy from this for sfml\mario\x64\Debug\newproj.pdb (Full PDB)
